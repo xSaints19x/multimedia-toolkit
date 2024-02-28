@@ -1,0 +1,5 @@
+# Run flask app locally
+flask --app flaskapi.py --debug run
+
+# Import dependencies using pipreqs
+pipreqs > requirements.txt
